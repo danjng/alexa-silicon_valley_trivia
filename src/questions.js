@@ -17,10 +17,23 @@ module.exports = {
             ]
         },
         {
-            "True or false, Gilfoyle drinks a beer in every single episode.": [
-                "True",
-                "False"
+            "During the opening credits of season three, you can see which two companies represented as hot-air balloons bumping into each other?": [
+                "Uber and Lyft",
+                "Paypal and Venmo",
+		"Microsoft and Google",
+		"Apple and Google",
+		"Dell and HP"
             ]
-        }
+        },
+	{
+	    "What beverage does Gilfoyle drink in every episode?": [
+		"Beer",
+		"Coke",
+		"Iced Tea",
+		"Apple juice",
+		"Appletini",
+		"Margarita"
+	    ]
+	}
     ]
 };
