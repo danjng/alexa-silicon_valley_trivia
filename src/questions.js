@@ -20,20 +20,30 @@ module.exports = {
             "During the opening credits of season three, you can see which two companies represented as hot-air balloons bumping into each other?": [
                 "Uber and Lyft",
                 "Paypal and Venmo",
-		"Microsoft and Google",
-		"Apple and Google",
-		"Dell and HP"
+                "Microsoft and Google",
+                "Apple and Google",
+                "Dell and HP"
             ]
         },
-	{
-	    "What beverage does Gilfoyle drink in every episode?": [
-		"Beer",
-		"Coke",
-		"Iced Tea",
-		"Apple juice",
-		"Appletini",
-		"Margarita"
-	    ]
-	}
+        {
+            "What beverage does Gilfoyle drink in every episode?": [
+                "Beer",
+                "Coke",
+                "Iced Tea",
+                "Apple juice",
+                "Appletini",
+                "Margarita"
+            ]
+        },
+        {
+            "In the opening credits, which company is depicted as eating the other companies it had bought in real life?": [
+                "Facebook",
+                "Apple",
+                "Google",
+                "Microsoft",
+                "Lever",
+                "SC Johnson"
+            ]
+        }
     ]
 };
